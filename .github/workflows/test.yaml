@@ -5,7 +5,7 @@ permissions:
  packages: write
  
 env:
- pkg: "drupal"
+ pkg: "docker"
 
 jobs:
  all:
